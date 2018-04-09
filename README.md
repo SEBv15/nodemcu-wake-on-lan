@@ -8,3 +8,8 @@ Just a small project that lets you remote start a computer via a [NodeMcu](https
 
 ##### To support the nodemcu
 - Follow this [tutorial](http://www.instructables.com/id/Steps-to-Setup-Arduino-IDE-for-NODEMCU-ESP8266-WiF/) from step **#4** to step **#9**
+
+##### wake on LAN library installation
+- download this [repository](https://github.com/koen-github/WakeOnLan-ESP8266) as a `.zip` file
+- go to `sketch -> include library -> Add .ZIP library` in the Arduino IDE
+- Select the library `.zip` file
